@@ -19,3 +19,9 @@ As part of Break Through Tech's AI/ML Fellowship, I’ll participate in a team-b
 
 ### [DISCOver](https://devpost.com/software/discover-tvb5z0) — Assistive Chrome Extension for Accessibility
 As part of a team project focused on inclusive technology, I helped develop DISCOver, a Chrome extension designed to make web browsing more accessible for users with dyslexia and other visual processing challenges. The tool allows users to personalize website appearance—adjusting font size, font style, and background color—for a more comfortable and readable experience. Built using HTML, CSS, and JavaScript, DISCOver was our first venture into browser extension development, and we successfully deployed and tested it through Repl.it. Our goal was to bridge accessibility gaps and empower all users to navigate the web with ease.
+
+## Connect With Me
+
+LinkedIn: [linkedin.com/in/anvikachaudhary/](https://www.linkedin.com/in/anvikachaudhary/)
+
+Email: anvika05@gmail.com
