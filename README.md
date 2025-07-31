@@ -5,8 +5,11 @@ My name is Anvika, and I’m an incoming sophomore at NJIT’s Honors College ma
 ## Tech Stack
 
 Programming Languages: Python, Java, HTML, CSS, JavaScript, MATLAB
+
 Libraries & Frameworks: scikit-learn, Pandas, NumPy, seaborn, matplotlib
-Development Tools: Jupyter Notebooks
+
+Development Tools: Jupyter Notebooks, VS Code
+
 Version Control: Git, GitHub
 
 ## Projects
